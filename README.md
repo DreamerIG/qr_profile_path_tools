@@ -1,0 +1,2 @@
+# qr_profile_path_tools
+二维码文件扫描查看文件路径工具
